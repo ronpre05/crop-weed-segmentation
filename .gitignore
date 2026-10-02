@@ -1,0 +1,9 @@
+.DS_Store
+*.asv
+
+# dataset and generated outputs
+cw_data/
+eval_base/
+eval_imp_*/
+baseline_metrics.mat
+improved_metrics.mat
